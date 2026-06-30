@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 15 |
+| 49 | 15 |
 
 ---
 
@@ -15,17 +15,17 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (10)
+- [brute force](#brute-force) (12)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (3)
 - [games](#games) (1)
-- [greedy](#greedy) (21)
-- [implementation](#implementation) (13)
-- [math](#math) (11)
-- [number theory](#number-theory) (6)
-- [sortings](#sortings) (8)
+- [greedy](#greedy) (25)
+- [implementation](#implementation) (15)
+- [math](#math) (17)
+- [number theory](#number-theory) (8)
+- [sortings](#sortings) (9)
 - [strings](#strings) (6)
 
 ---
@@ -58,6 +58,8 @@
 | 1285C | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1285/C%20-%20Fadi%20and%20LCM/solution.cpp) |
 | 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2162B | [Beautiful String](https://codeforces.com/contest/2162/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2162/B%20-%20Beautiful%20String/solution.cpp) |
+| 2164B | [Even Modulo Pair](https://codeforces.com/contest/2164/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2164/B%20-%20Even%20Modulo%20Pair/solution.cpp) |
 | 2164C | [Dungeon](https://codeforces.com/contest/2164/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2164/C%20-%20Dungeon/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
@@ -76,9 +78,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
+| 2162B | [Beautiful String](https://codeforces.com/contest/2162/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2162/B%20-%20Beautiful%20String/solution.cpp) |
 | 2188A | [Divisible Permutation](https://codeforces.com/contest/2188/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2188/A%20-%20Divisible%20Permutation/solution.cpp) |
+| 2191B | [MEX Reordering](https://codeforces.com/contest/2191/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2191/B%20-%20MEX%20Reordering/solution.cpp) |
 | 2219A | [Grid L](https://codeforces.com/contest/2219/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2219/A%20-%20Grid%20L/solution.cpp) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
+| 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
 ### data structures
 
@@ -120,12 +125,16 @@
 | 2153B | [Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2153/B%20-%20Bitwise%20Reversion/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2164C | [Dungeon](https://codeforces.com/contest/2164/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2164/C%20-%20Dungeon/solution.cpp) |
+| 2188B | [Seats](https://codeforces.com/contest/2188/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2188/B%20-%20Seats/solution.cpp) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.cpp) |
+| 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.cpp) |
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2227/B%20-%20Party%20Monster/solution.cpp) |
+| 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 
 ### implementation
@@ -145,6 +154,8 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+| 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
 
 ### math
 
@@ -155,12 +166,18 @@
 | 1285C | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1285/C%20-%20Fadi%20and%20LCM/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
+| 2164B | [Even Modulo Pair](https://codeforces.com/contest/2164/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2164/B%20-%20Even%20Modulo%20Pair/solution.cpp) |
 | 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.cpp) |
 | 2217C | [Grid Covering](https://codeforces.com/contest/2217/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2217/C%20-%20Grid%20Covering/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2219A | [Grid L](https://codeforces.com/contest/2219/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2219/A%20-%20Grid%20L/solution.cpp) |
+| 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.cpp) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
+| 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+| 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
 ### number theory
 
@@ -170,8 +187,10 @@
 | 1285C | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1285/C%20-%20Fadi%20and%20LCM/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
+| 2164B | [Even Modulo Pair](https://codeforces.com/contest/2164/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2164/B%20-%20Even%20Modulo%20Pair/solution.cpp) |
 | 2217C | [Grid Covering](https://codeforces.com/contest/2217/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2217/C%20-%20Grid%20Covering/solution.cpp) |
 | 2219A | [Grid L](https://codeforces.com/contest/2219/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2219/A%20-%20Grid%20L/solution.cpp) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### sortings
 
@@ -184,6 +203,7 @@
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.cpp) |
 | 2153A | [Circle of Apple Trees](https://codeforces.com/contest/2153/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2153/A%20-%20Circle%20of%20Apple%20Trees/solution.cpp) |
 | 2164C | [Dungeon](https://codeforces.com/contest/2164/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2164/C%20-%20Dungeon/solution.cpp) |
+| 2191B | [MEX Reordering](https://codeforces.com/contest/2191/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2191/B%20-%20MEX%20Reordering/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 
 ### strings
