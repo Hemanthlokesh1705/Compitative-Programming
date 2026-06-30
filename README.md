@@ -6,21 +6,85 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 13 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [*special](#special) (1)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (2)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (5)
+- [math](#math) (2)
+- [sortings](#sortings) (2)
+- [strings](#strings) (3)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2153B | [Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2153/B%20-%20Bitwise%20Reversion/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 2153B | [Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2153/B%20-%20Bitwise%20Reversion/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ---
 
