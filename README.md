@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 15 |
+| 50 | 15 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [data structures](#data-structures) (3)
 - [dp](#dp) (3)
 - [games](#games) (1)
-- [greedy](#greedy) (25)
+- [greedy](#greedy) (26)
 - [implementation](#implementation) (15)
 - [math](#math) (17)
 - [number theory](#number-theory) (8)
@@ -134,6 +134,7 @@
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2227/B%20-%20Party%20Monster/solution.cpp) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 
