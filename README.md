@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 15 |
+| 51 | 15 |
 
 ---
 
@@ -14,19 +14,19 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
-- [bitmasks](#bitmasks) (2)
+- [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (12)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (3)
 - [games](#games) (1)
-- [greedy](#greedy) (26)
+- [greedy](#greedy) (27)
 - [implementation](#implementation) (15)
 - [math](#math) (17)
 - [number theory](#number-theory) (8)
 - [sortings](#sortings) (9)
-- [strings](#strings) (6)
+- [strings](#strings) (7)
 
 ---
 
@@ -48,6 +48,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2153B | [Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2153/B%20-%20Bitwise%20Reversion/solution.cpp) |
+| 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 
 ### brute force
@@ -125,6 +126,7 @@
 | 2153B | [Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2153/B%20-%20Bitwise%20Reversion/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2164C | [Dungeon](https://codeforces.com/contest/2164/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2164/C%20-%20Dungeon/solution.cpp) |
+| 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
 | 2188B | [Seats](https://codeforces.com/contest/2188/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2188/B%20-%20Seats/solution.cpp) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
@@ -216,6 +218,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
+| 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 
 ---
