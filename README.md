@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 15 |
+| 52 | 15 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (3)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [games](#games) (1)
 - [greedy](#greedy) (27)
 - [implementation](#implementation) (15)
-- [math](#math) (17)
-- [number theory](#number-theory) (8)
+- [math](#math) (18)
+- [number theory](#number-theory) (9)
 - [sortings](#sortings) (9)
 - [strings](#strings) (7)
 
@@ -101,6 +101,7 @@
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.cpp) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.cpp) |
+| 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 
 ### games
 
@@ -179,6 +180,7 @@
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
@@ -193,6 +195,7 @@
 | 2164B | [Even Modulo Pair](https://codeforces.com/contest/2164/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2164/B%20-%20Even%20Modulo%20Pair/solution.cpp) |
 | 2217C | [Grid Covering](https://codeforces.com/contest/2217/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2217/C%20-%20Grid%20Covering/solution.cpp) |
 | 2219A | [Grid L](https://codeforces.com/contest/2219/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2219/A%20-%20Grid%20L/solution.cpp) |
+| 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### sortings
