@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 2 | 6 |
 
 ---
 
@@ -14,7 +14,9 @@
 
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
+- [math](#math) (1)
+- [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
 ---
@@ -36,6 +38,19 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Hemanthlokesh1705/Compitative-Programming/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
 ### strings
 
